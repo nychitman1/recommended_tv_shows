@@ -28,6 +28,7 @@
 * Upload
 
 ## AMC
+* Better Call Saul
 * Breaking Bad
 * Fear of the Walking Dead
 * Halt and Catch Fire
