@@ -88,6 +88,7 @@
 * Jessica Jones
 * Loki
 * Luke Cage
+* She-Hulk
 * The Defenders
 * The Falcon and The Winter Soldier
 * The Mandalorian
