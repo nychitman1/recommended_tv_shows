@@ -272,7 +272,8 @@
 * White Lines
 * You
 
-## Paramount Network
+## Paramount Network/+
+* Mayor of Kingstown
 * Yellowstone
 
 ## Showtime
