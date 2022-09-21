@@ -145,6 +145,7 @@
 * Entourage
 * Game of Thrones
 * His Dark Materials
+* House of the Dragon
 * Hung
 * Insecure
 * Mare of Easttown
