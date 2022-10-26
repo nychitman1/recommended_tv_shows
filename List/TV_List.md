@@ -19,11 +19,13 @@
 * Bosch
 * Catastrophe
 * Jack Ryan
+* Lord of the Rings: The Rings of Power
 * Modern Love
 * Reacher
 * Sneaky Pete
 * The Boys
 * The Man in the High Castle
+* The Peripheral
 * The Terminal List
 * Upload
 
@@ -264,6 +266,7 @@
 * The Stranger
 * The Surgeon's Cut
 * The Umbrella Academy
+* The Watcher
 * The Witcher
 * The Woods
 * Travelers
