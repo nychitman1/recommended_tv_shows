@@ -158,6 +158,7 @@
 * The Newsroom
 * The Night Of
 * The Outsider
+* The White Lotus
 * Tokyo Vice
 * True Detective (season 1 & 3 only)
 * Vice Principals
