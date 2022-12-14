@@ -192,6 +192,7 @@
 
 ## Netflix
 * 13 Reasons Why
+* 1899
 * Altered Carbon
 * Another Life
 * Atypical
