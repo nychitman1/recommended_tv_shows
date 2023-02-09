@@ -50,6 +50,7 @@
 * Servant
 * Severance
 * Shining Girls
+* Shrinking
 * Ted Lasso
 * The After Party
 * The Morning Show
