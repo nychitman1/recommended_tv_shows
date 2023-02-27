@@ -24,6 +24,7 @@
 * Reacher
 * Sneaky Pete
 * The Boys
+* The Consultant
 * The Man in the High Castle
 * The Peripheral
 * The Terminal List
