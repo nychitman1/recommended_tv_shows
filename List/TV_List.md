@@ -42,6 +42,7 @@
 * The Walking Dead (up to Season 9)
 
 ## Apple TV+
+* Bad Sisters
 * Black Bird
 * Defending Jacob
 * Mr. Corman
