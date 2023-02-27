@@ -157,6 +157,7 @@
 * Peacemaker
 * Sharp Objects
 * Silicon Valley
+* The Last of Us
 * The Leftovers
 * The Newsroom
 * The Night Of
