@@ -132,6 +132,7 @@
 ## FX/FXX
 * Dave
 * Fargo
+* Fleishman Is in Trouble
 * It's Always Sunny in Philadelphia
 * Sons of Anarchy
 * Taboo
