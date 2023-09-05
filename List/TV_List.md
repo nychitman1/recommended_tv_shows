@@ -53,6 +53,7 @@
 * Severance
 * Shining Girls
 * Shrinking
+* Silo
 * Ted Lasso
 * The After Party
 * The Morning Show
