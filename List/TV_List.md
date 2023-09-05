@@ -286,6 +286,7 @@
 
 ## Paramount Network/+
 * Mayor of Kingstown
+* Special Ops: Lioness
 * Yellowstone
 
 ## Showtime
