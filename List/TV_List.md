@@ -271,6 +271,7 @@
 * The Protector
 * The Queen's Gambit
 * The Rain
+* The Recruit
 * The Silent Sea
 * The Society
 * The Stranger
