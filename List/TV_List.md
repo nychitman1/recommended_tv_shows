@@ -88,6 +88,7 @@
 * Reno 911
 
 ## Disney+
+* Ahsoka
 * Daredevil
 * Hawkeye
 * Iron Fist
