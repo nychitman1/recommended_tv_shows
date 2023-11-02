@@ -259,6 +259,7 @@
 * The Chef Show
 * The End of the F***ing World
 * The Fall
+* The Fall of the House of Usher
 * The Frozen Dead
 * The Haunting of Bly Manor
 * The Haunting of Hill House
