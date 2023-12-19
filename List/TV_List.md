@@ -45,6 +45,7 @@
 * Bad Sisters
 * Black Bird
 * Defending Jacob
+* Monarch: Legacy of Monsters
 * Mr. Corman
 * Mythic Quest
 * Physical
