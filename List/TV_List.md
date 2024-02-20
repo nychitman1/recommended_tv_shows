@@ -185,7 +185,7 @@
 * The Bear
 * The Handmaid's Tale
 
-## NBC
+## NBC/Peacock
 * Blindspot
 * Chuck
 * Ellen's Game of Games
@@ -194,6 +194,7 @@
 * Manifest
 * New Amsterdam
 * Shades of Blue
+* Ted
 * The Good Place
 * The Office
 * This Is Us
