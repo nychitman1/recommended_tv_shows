@@ -21,6 +21,7 @@
 * Jack Ryan
 * Lord of the Rings: The Rings of Power
 * Modern Love
+* Mr. & Mrs. Smith
 * Reacher
 * Sneaky Pete
 * The Boys
