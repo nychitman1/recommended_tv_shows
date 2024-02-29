@@ -171,7 +171,7 @@
 * The Outsider
 * The White Lotus
 * Tokyo Vice
-* True Detective (season 1 & 3 only)
+* True Detective (seasons 1, 3, 4 only)
 * Vice Principals
 * Watchmen
 * Westworld
