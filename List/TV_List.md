@@ -139,6 +139,7 @@
 * Fargo
 * Fleishman Is in Trouble
 * It's Always Sunny in Philadelphia
+* Shogun
 * Sons of Anarchy
 * Taboo
 * The Americans
