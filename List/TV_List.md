@@ -206,6 +206,7 @@
 ## Netflix
 * 13 Reasons Why
 * 1899
+* 3 Body Problem
 * Altered Carbon
 * Another Life
 * Atypical
