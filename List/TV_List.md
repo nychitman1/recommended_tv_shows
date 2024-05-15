@@ -18,6 +18,7 @@
 ## Amazon
 * Bosch
 * Catastrophe
+* Fallout
 * Jack Ryan
 * Lord of the Rings: The Rings of Power
 * Modern Love
