@@ -93,6 +93,7 @@
 * Reno 911
 
 ## Disney+
+* Agatha All Along
 * Ahsoka
 * Daredevil
 * Hawkeye
