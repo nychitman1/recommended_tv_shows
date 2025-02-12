@@ -187,6 +187,7 @@
 * Little Fires Everywhere
 * Nine Perfect Strangers
 * Only Murders In The Building
+* Paradise
 * Runaways
 * The Bear
 * The Handmaid's Tale
