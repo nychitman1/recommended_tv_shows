@@ -322,8 +322,10 @@
 
 ## Paramount Network/+
 
+* Landman
 * Mayor of Kingstown
 * Special Ops: Lioness
+* Tulsa King
 * Yellowstone
 
 ## Showtime
