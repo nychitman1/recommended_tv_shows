@@ -57,8 +57,10 @@
 * Lessons in Chemistry
 * Monarch: Legacy of Monsters
 * Mr. Corman
+* Murderbot
 * Mythic Quest
 * Physical
+* Platonic
 * Presumed Innocent
 * See
 * Servant
@@ -70,6 +72,7 @@
 * The After Party
 * The Morning Show
 * The Shrink Next Door
+* The Studio
 * WeCrashed
 
 ## BBC
