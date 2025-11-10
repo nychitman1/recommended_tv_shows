@@ -186,6 +186,7 @@
 * Peacemaker
 * Sharp Objects
 * Silicon Valley
+* Task
 * The Last of Us
 * The Leftovers
 * The Newsroom
