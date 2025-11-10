@@ -1,4 +1,5 @@
 ## ABC
+
 * Alias
 * Boston Legal
 * Eli Stone
@@ -8,7 +9,8 @@
 * Shark Tank
 * The Wonder Years (original)
 
-## A&E
+## A\&E
+
 * Bates Motel
 * Duck Dynasty
 * Hoarders
@@ -16,13 +18,14 @@
 * The First 48
 
 ## Amazon
+
 * Bosch
 * Catastrophe
 * Fallout
 * Jack Ryan
 * Lord of the Rings: The Rings of Power
 * Modern Love
-* Mr. & Mrs. Smith
+* Mr. \& Mrs. Smith
 * Reacher
 * Sneaky Pete
 * The Boys
@@ -33,6 +36,7 @@
 * Upload
 
 ## AMC
+
 * Better Call Saul
 * Breaking Bad
 * Fear of the Walking Dead
@@ -44,10 +48,12 @@
 * The Walking Dead (up to Season 9)
 
 ## Apple TV+
+
 * Bad Sisters
 * Black Bird
 * Defending Jacob
 * Disclaimer
+* Invasion
 * Lessons in Chemistry
 * Monarch: Legacy of Monsters
 * Mr. Corman
@@ -67,12 +73,14 @@
 * WeCrashed
 
 ## BBC
+
 * Luther
 * Orphan Black
 * Planet Earth
 * Top Gear
 
 ## CBS
+
 * Bull
 * Criminal Minds
 * Elementary
@@ -81,19 +89,23 @@
 * Wisdom of the Crowd
 
 ## CBC Television
+
 * Kim's Convenience
 * Schitts Creek
 
 ## CNN
+
 * United Shades of America
 
 ## Comedy Central
+
 * Broad City
 * Chappelle's Show
 * Drunk History
 * Reno 911
 
 ## Disney+
+
 * Agatha All Along
 * Ahsoka
 * Daredevil
@@ -111,12 +123,14 @@
 * Welcome to Earth
 
 ## Epix
+
 * Berlin Station
 * Godfather of Harlem
 * Perpetual Grace LTD
 * War of the Worlds
 
 ## FOX
+
 * 24
 * Beverly Hills, 90210
 * Bones
@@ -135,10 +149,12 @@
 * Wayward Pines
 
 ## Freeform
-* Cloak & Dagger
+
+* Cloak \& Dagger
 * Cruel Summer
 
 ## FX/FXX
+
 * Dave
 * Fargo
 * Fleishman Is in Trouble
@@ -151,6 +167,7 @@
 * What We Do In The Shadows
 
 ## HBO
+
 * Ballers
 * Band of Brothers
 * Barry
@@ -182,6 +199,7 @@
 * Westworld
 
 ## Hulu
+
 * 11.22.63
 * Castle Rock
 * Little Fires Everywhere
@@ -193,6 +211,7 @@
 * The Handmaid's Tale
 
 ## NBC/Peacock
+
 * Blindspot
 * Chuck
 * Ellen's Game of Games
@@ -209,6 +228,7 @@
 * Young Rock
 
 ## Netflix
+
 * 13 Reasons Why
 * 1899
 * 3 Body Problem
@@ -240,7 +260,7 @@
 * La Casa de Papel (Money Heist)
 * Lilyhammer
 * Living With Yourself
-* Locke & Key
+* Locke \& Key
 * Lost in Space
 * Love
 * Magic for Humans
@@ -268,7 +288,7 @@
 * Stranger Things
 * The Break
 * The Chef Show
-* The End of the F***ing World
+* The End of the F\*\*\*ing World
 * The Fall
 * The Fall of the House of Usher
 * The Frozen Dead
@@ -301,11 +321,13 @@
 * You
 
 ## Paramount Network/+
+
 * Mayor of Kingstown
 * Special Ops: Lioness
 * Yellowstone
 
 ## Showtime
+
 * Billions
 * Californication
 * Dexter
@@ -319,6 +341,7 @@
 * Your Honor
 
 ## Starz
+
 * Ash vs. Evil Dead
 * Black Sails
 * Counterpart
@@ -327,6 +350,7 @@
 * Spartacus
 
 ## The CW
+
 * Hidden Palms
 * In The Dark
 * Legacies
@@ -338,14 +362,17 @@
 * The Vampire Diaries
 
 ## TNT Network
+
 * Legends
 * The Last Ship
 * The Alienist
 
 ## truTV
+
 * I'm Sorry
 
 ## USA Network
+
 * Colony
 * Monk
 * Mr. Robot
