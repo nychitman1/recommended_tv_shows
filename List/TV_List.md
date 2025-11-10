@@ -31,8 +31,10 @@
 * The Boys
 * The Consultant
 * The Man in the High Castle
+* The Night Manager
 * The Peripheral
 * The Terminal List
+* The Terminal List: Dark Wolf
 * Upload
 
 ## AMC
